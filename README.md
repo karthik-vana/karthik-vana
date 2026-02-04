@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated Gradient Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KARTHIK%20VANA&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🚀%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Architect%20🚀&descSize=22&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KARTHIK%20VANA&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Architect%20&descSize=22&descAlignY=58&descAlign=50" width="100%"/>
 <!-- Animated Tech Wave -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%F0%9F%A7%A0+Building+Intelligent+Systems+That+Transform+Industries;%F0%9F%93%8A+Transforming+Raw+Data+Into+Actionable+Insights;%F0%9F%94%AC+Pioneering+Next-Gen+AI+%26+ML+Solutions;%E2%9A%A1+Architecting+The+Future+With+Code+%26+Algorithms" alt="Typing SVG" />
 
@@ -42,14 +42,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎬 ANIMATED INTRODUCTION SECTION 🎬 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- Animated Gif Avatar -->
-<!-- 🖥️ OPERATOR AVATAR 🖥️ -->
-<img src="assets/profile.jpg" width="220" height="220" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 25px #8B5CF6;" alt="Karthik Vana"/>
-
-<br><br>
 
 <!-- Animated About Me Card -->
 ```yaml
@@ -489,21 +481,6 @@ If you find my work helpful or inspiring, consider supporting me! Every contribu
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <br>
-
-<div align="center">
-
-<!-- Animated Thank You Message -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🙏+THANKS+FOR+VISITING!;⭐+STAR+MY+REPOS+IF+YOU+LIKE+THEM!" alt="Thank You"/>
-
-<br><br>
-
-<!-- Final Stats Badge -->
-<img src="https://visitcount.itsvg.in/api?id=karthik-vana&icon=6&color=6" alt="Visit Count"/>
-
-<br><br>
-
-<!-- Animated Signature -->
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=50&lines=Made+with+💜+by+Karthik+Vana" alt="Signature"/>
 
 <br><br>
 
