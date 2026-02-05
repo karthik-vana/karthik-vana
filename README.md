@@ -111,16 +111,6 @@
 <!-- 🎓 EDUCATION & CERTIFICATIONS SECTION 🎓 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="35"> **EDUCATION & CREDENTIALS**
-
-<br>
-
-<table>
-<tr>
-<div align="center">
-
 ## 🎓 **EDUCATION & CREDENTIALS** 🎓
 
 <br>
