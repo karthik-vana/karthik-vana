@@ -49,13 +49,13 @@
 ║                                                                                                  ║
 ║   👨‍💻 NAME           :  Karthik Vana                                                             ║
 ║   🎯 TITLE          :  AI Engineer | Data Scientist | ML Architect                              ║
-║   📍 LOCATION       :  Visakhapatnam, India 🇮🇳                                                   ║
+║   📍 LOCATION       :  Visakhapatnam, India 🇮🇳                                                  ║
 ║   🚀 MISSION        :  Building Intelligent Systems That Transform The World                    ║
 ║   💡 SUPERPOWER     :  Transforming Complex Data Into Actionable Intelligence                   ║
 ║   🎓 EDUCATION      :  M.Tech (AI/ML) @ Avanthi Institute of Engineering & Technology           ║
 ║   💼 EXPERTISE      :  Machine Learning • Deep Learning • NLP • Computer Vision • Gen AI        ║
 ║   🔮 CURRENT QUEST  :  Mastering Advanced AI Architectures & Cloud Deployment                   ║
-║   ⚡ FUN FACT       :  I turn caffeine into algorithms! ☕ → 🤖                                  ║
+║   ⚡ FUN FACT       :  I turn caffeine into algorithms! ☕ → 🤖                                ║
 ║                                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -119,27 +119,59 @@
 
 <table>
 <tr>
+<div align="center">
+
+## 🎓 **EDUCATION & CREDENTIALS** 🎓
+
+<br>
+
+<!-- 🎓 Animated Education Cards 🎓 -->
+<table>
+<tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎓-M.Tech-00D9FF?style=for-the-badge&labelColor=0a0a0a" />
+<br>
+<img src="https://img.shields.io/badge/🎓-MASTER'S_DEGREE-00D9FF?style=for-the-badge&labelColor=0a0a0a" />
 <br><br>
-<b>Master of Technology</b><br>
-<sub>AI & Machine Learning</sub><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="80" />
+<br><br>
+<h3>M.Tech</h3>
+<b>Artificial Intelligence & Machine Learning</b>
+<br>
 <sub>📍 Avanthi Institute of Engineering & Technology</sub>
+<br><br>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎓-B.Tech-8B5CF6?style=for-the-badge&labelColor=0a0a0a" />
+<br>
+<img src="https://img.shields.io/badge/🎓-BACHELOR'S_DEGREE-8B5CF6?style=for-the-badge&labelColor=0a0a0a" />
 <br><br>
-<b>Bachelor of Technology</b><br>
-<sub>Electrical & Electronics Engineering</sub><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="80" />
+<br><br>
+<h3>B.Tech</h3>
+<b>Electrical & Electronics Engineering</b>
+<br>
 <sub>📍 Raghu Engineering College</sub>
+<br><br>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/📜-CERTIFIED-00FF88?style=for-the-badge&labelColor=0a0a0a" />
+<br>
+<img src="https://img.shields.io/badge/📜-CERTIFIED_PRO-00FF88?style=for-the-badge&labelColor=0a0a0a" />
 <br><br>
-<b>Professional Certifications</b><br>
-<sub>Data Science & Gen AI</sub><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="80" />
+<br><br>
+<h3>Certifications</h3>
+<b>Data Science & Generative AI</b>
+<br>
 <sub>📍 Innomatics | Vihara Tech | YBI Foundation</sub>
+<br><br>
 </td>
+</tr>
+</table>
+
+</div>
+
+<!-- 🌊 Animated Wave Separator 🌊 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 </tr>
 </table>
 
@@ -408,55 +440,143 @@
 </a>
 
 </div>
+
+<!-- 🔗 ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ✍️ RANDOM DEV QUOTE SECTION ✍️ -->
+<!-- ✍️ RANDOM DEV QUOTE - WISDOM CORNER ✍️ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## ✍️ **RANDOM DEV WISDOM**
+## ✍️ **RANDOM DEV WISDOM** 
 
 <br>
 
+<!-- 💡 Light Bulb Animation 💡 -->
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80">
+
+<br><br>
+
+<!-- 📜 Quote Card 📜 -->
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
 </p>
 
+<!-- 🎯 Personal Quote  -->
+
+## 🎯Personal Quote
+<br>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                          ║
+║   "In the realm of data, I don't just analyze patterns — I architect futures."          ║
+║                                                                          - Karthik Vana ║
+║                                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<!-- ═══ NEW: JOKE SECTION ═══ -->
+<br>
+
+<details>
+<summary><b>😄 Daily Coding Joke </b></summary>
+<br>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=00D9FF&aColor=8B5CF6" alt="Jokes Card"/>
+</p>
+</details>
+
 </div>
 
-<!-- Animated Divider -->
+<!-- 🌊 Animated Wave Separator 🌊 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 💰 SUPPORT SECTION 💰 -->
+<!-- 🎵 SPOTIFY PLAYING - MUSIC VIBES 🎵 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 💖 **SUPPORT MY WORK**
+## 🎧 **VIBING TO** 🎧
+
+<br>
+
+<!-- 🎵 Music Animation 🎵 -->
+<img src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" width="100">
+
+<br><br>
+
+<!-- 🎶 Animated Music Visual 🎶 -->
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31karthikvana&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=8B5CF6&bar_color_cover=true" alt="Spotify Now Playing"/>
+
+<!-- ═══ NEW: WAKATIME STATS ═══ -->
+<br><br>
+
+<details>
+<summary><b>⏱️ Weekly Coding Activity ⏱️</b></summary>
+<br>
+<p align="center">
+<img src="https://wakatime.com/share/@karthikvana/d0419956-3e5e-4f85-bb8e-0f4f18f8de30.svg" alt="WakaTime Stats" width="80%"/>
+</p>
+</details>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 💰 SUPPORT SECTION - FUEL THE INNOVATION 💰 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 💖 **SUPPORT MY WORK** 
+
+<br>
+
+<!-- ☕ Coffee Animation ☕ -->
+<img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100">
+
+<br><br>
 
 <p align="center">
-If you find my work helpful or inspiring, consider supporting me! Every contribution fuels more innovation! 🚀
+<i>If you find my work helpful or inspiring, consider fueling my innovation! Every contribution keeps the algorithms running! 🚀</i>
 </p>
 
 <br>
 
+<!-- 💳 Support Buttons 💳 -->
 <p align="center">
 <a href="https://buymeacoffee.com/karthik_vana" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
+&nbsp;
 <a href="https://paypal.me/karthikvana" target="_blank">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  <img src="https://img.shields.io/badge/💙_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
 </a>
+&nbsp;
 <a href="https://ko-fi.com/karthik-vana" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+  <img src="https://img.shields.io/badge/❤️_Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+</a>
+</p>
+
+<!-- ═══ NEW: GITHUB SPONSORS ═══ -->
+<br>
+
+<p align="center">
+<a href="https://github.com/sponsors/karthik-vana" target="_blank">
+  <img src="https://img.shields.io/badge/💜_GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
 </a>
 </p>
 
 </div>
 
-<!-- Animated Divider -->
+<!-- 🌊 Animated Wave Separator 🌊 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🐍 CONTRIBUTION SNAKE 🐍 -->
@@ -475,6 +595,7 @@ If you find my work helpful or inspiring, consider supporting me! Every contribu
 </picture>
 
 </div>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌌 COSMIC FOOTER - ANIMATED GALAXY EXIT 🌌 -->
