@@ -1,24 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff00,100:004400&height=400&section=header&text=KARTHIK%20VANA&fontSize=110&fontColor=00ff00&animation=fadeIn&fontAlignY=50&fontAlign=50&stroke=00ff00&strokeWidth=2" width="100%"/>
+<!-- Animated Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=KARTHIK%20VANA&fontColor=FFFFFF&fontSize=80&fontAlignY=35&animation=twinkling&desc=AI%20Engineer%20|%20ML%20Innovator%20|%20Data%20Scientist&descSize=20&descAlignY=55" width="100%"/>
 
-<!-- Matrix Code Rain Effect -->
-<div style="background: linear-gradient(90deg, transparent, #00ff00 20%, #00ff00 50%, #00ff00 80%, transparent); height: 2px; margin: 20px 0; box-shadow: 0 0 40px #00ff00, 0 0 80px #00ff00;"></div>
+<!-- Animated Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=karthikvana&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=32&duration=5000&pause=1500&color=00ff00&center=true&vCenter=true&width=1100&height=120&lines=%3E%20Decoding%20Intelligence%20From%20Complex%20Systems;%3E%20Engineering%20AI%20Solutions%20That%20Scale%20Infinitely;%3E%20Transforming%20Data%20Into%20Revolutionary%20Insights;%3E%20Building%20The%20Neural%20Networks%20Of%20Tomorrow" alt="Matrix Style" />
 
 <!-- Matrix Separator -->
 <div style="background: linear-gradient(90deg, transparent, #00ff00, transparent); height: 3px; margin: 20px 0; box-shadow: 0 0 50px #00ff00;"></div>
-
-<p style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/System%20Status-OPERATIONAL-00ff00?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/AI%20Level-EXPERT-00ff00?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Building-INTELLIGENCE-00ff00?style=for-the-badge&labelColor=0d1117" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=3500&pause=800&color=00ff00&center=true&vCenter=true&width=1000&height=50&lines=Architecting%20Intelligent%20Systems%20For%20Enterprise%20Scale;Where%20Machine%20Learning%20Meets%20Innovation" alt="Matrix Tagline" />
-
-</div>
 
 
 
