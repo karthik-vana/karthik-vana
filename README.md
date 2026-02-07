@@ -1,13 +1,25 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌌 COSMIC HEADER - ANIMATED GALAXY ENTRANCE 🌌 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- Animated Gradient Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KARTHIK%20VANA&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Architect%20&descSize=22&descAlignY=58&descAlign=50" width="100%"/>
-<!-- Animated Tech Wave -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&width=900&height=50&lines=%F0%9F%A7%A0+Building+Intelligent+Systems+That+Transform+Industries;%F0%9F%93%8A+Transforming+Raw+Data+Into+Actionable+Insights;%F0%9F%94%AC+Pioneering+Next-Gen+AI+%26+ML+Solutions;%E2%9A%A1+Architecting+The+Future+With+Code+%26+Algorithms" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff00,100:004400&height=400&section=header&text=KARTHIK%20VANA&fontSize=110&fontColor=00ff00&animation=fadeIn&fontAlignY=50&fontAlign=50&stroke=00ff00&strokeWidth=2" width="100%"/>
+
+<!-- Matrix Code Rain Effect -->
+<div style="background: linear-gradient(90deg, transparent, #00ff00 20%, #00ff00 50%, #00ff00 80%, transparent); height: 2px; margin: 20px 0; box-shadow: 0 0 40px #00ff00, 0 0 80px #00ff00;"></div>
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=32&duration=5000&pause=1500&color=00ff00&center=true&vCenter=true&width=1100&height=120&lines=%3E%20Decoding%20Intelligence%20From%20Complex%20Systems;%3E%20Engineering%20AI%20Solutions%20That%20Scale%20Infinitely;%3E%20Transforming%20Data%20Into%20Revolutionary%20Insights;%3E%20Building%20The%20Neural%20Networks%20Of%20Tomorrow" alt="Matrix Style" />
+
+<!-- Matrix Separator -->
+<div style="background: linear-gradient(90deg, transparent, #00ff00, transparent); height: 3px; margin: 20px 0; box-shadow: 0 0 50px #00ff00;"></div>
+
+<p style="margin: 15px 0;">
+  <img src="https://img.shields.io/badge/System%20Status-OPERATIONAL-00ff00?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AI%20Level-EXPERT-00ff00?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Building-INTELLIGENCE-00ff00?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=3500&pause=800&color=00ff00&center=true&vCenter=true&width=1000&height=50&lines=Architecting%20Intelligent%20Systems%20For%20Enterprise%20Scale;Where%20Machine%20Learning%20Meets%20Innovation" alt="Matrix Tagline" />
+
+</div>
+
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
