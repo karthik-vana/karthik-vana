@@ -340,7 +340,7 @@
 </td>
 
 <td align="center" width="120px">
-<a href="https://portfolio-v-smoky.vercel.app/" target="_blank" title="View Portfolio">
+<a href="https://karthikvana.vercel.app/" target="_blank" title="View Portfolio">
 <img src="https://img.icons8.com/fluency/55/domain.png" width="55" height="55" alt="Portfolio" style="border-radius: 10px;"/>
 </a>
 <br><sub><b>Portfolio</b></sub>
@@ -422,7 +422,7 @@
 
 ## 🕷️ **CALL TO ACTION - EXPLORE MY UNIVERSE**
 
-<a href="https://portfolio-v-smoky.vercel.app/" target="_blank">
+<a href="https://karthikvana.vercel.app/" target="_blank">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&height=90&lines=%F0%9F%8C%9F+VISIT+MY+PORTFOLIO;%F0%9F%9A%80+EXPLORE+MY+PROJECTS;%E2%9C%A8+LET%27S+BUILD+TOGETHER" alt="Portfolio CTA" />
 </a>
 
