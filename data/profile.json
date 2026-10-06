@@ -1,0 +1,216 @@
+{
+  "username": "karthik-vana",
+  "name": "Karthik Vana",
+  "contact": {
+    "github": "https://github.com/karthik-vana",
+    "linkedin": "https://linkedin.com/in/karthik-vana",
+    "email": "karthikvana236@gmail.com"
+  },
+  "headline": "AI/ML Engineer · Data Science · Generative AI",
+  "education": [
+    {
+      "institution": "Avanthi Institute of Engineering & Technology (JNTU-GV)",
+      "degree": "M.Tech — CSE, Artificial Intelligence & Machine Learning",
+      "dates": "Sep 2025 – Jun 2027",
+      "status": "Pursuing"
+    },
+    {
+      "institution": "Raghu Engineering College",
+      "degree": "B.Tech — Electrical & Electronics Engineering",
+      "dates": "Mar 2021 – Apr 2025",
+      "status": "Completed",
+      "achievement": "Government of Andhra Pradesh — 4-Year Full Merit Scholarship Awardee"
+    }
+  ],
+  "skills": {
+    "Programming & Data": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Power BI"
+    ],
+    "Machine Learning": [
+      "Scikit-learn",
+      "XGBoost",
+      "Random Forest",
+      "Gradient Boosting",
+      "SMOTE",
+      "Hyperparameter Tuning"
+    ],
+    "Deep Learning & Computer Vision": [
+      "TensorFlow",
+      "Keras",
+      "CNN",
+      "LSTM",
+      "ResNet50",
+      "VGG16",
+      "Transfer Learning",
+      "OpenCV"
+    ],
+    "Generative AI & NLP": [
+      "LangChain",
+      "LangGraph",
+      "AI Agents",
+      "RAG Pipelines",
+      "Prompt Engineering",
+      "Hugging Face Transformers",
+      "OpenAI APIs",
+      "NER",
+      "Sentiment Analysis",
+      "Vector Databases"
+    ],
+    "Databases, Deployment & Cloud": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "Flask",
+      "Docker",
+      "Gunicorn",
+      "Streamlit",
+      "AWS",
+      "GCP",
+      "Git"
+    ]
+  },
+  "experience": [
+    {
+      "organization": "Goa Institute of Management",
+      "location": "Panaji, Goa",
+      "role": "Big Data Analytics Fellow, SRIP-2026",
+      "dates": "Apr – Jun 2026",
+      "type": "Research Fellowship",
+      "highlights": [
+        "Collaborated with senior faculty on Big Data Analytics research into blockchain-based agent-to-agent authentication.",
+        "Designed an authentication protocol for multi-agent AI systems and authored the resulting research paper."
+      ]
+    },
+    {
+      "organization": "The Skill Union",
+      "location": "Hyderabad, Telangana",
+      "role": "AI/ML Engineer",
+      "dates": "Aug 2025 – Apr 2026",
+      "type": "Full-time",
+      "highlights": [
+        "Built RAG pipeline components with LangChain and OpenAI GPT-4 APIs, refining prompt design and response tuning for production use.",
+        "Integrated TensorFlow-based computer vision models, evaluated models, and deployed/configured vector databases for scalable AI applications."
+      ]
+    },
+    {
+      "organization": "Innomatics Research Labs",
+      "location": "Remote",
+      "role": "Data Science with GenAI Intern",
+      "dates": "Nov 2025 – Mar 2026",
+      "type": "Internship",
+      "highlights": [
+        "Collaborated on industry-level projects across AI/ML development, integration, and testing.",
+        "Built end-to-end Data Science and Generative AI projects using MLOps, RAG, AI Agents, LangChain, LangGraph, prompt engineering, and AWS."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "ShopMind AI",
+      "subtitle": "Multi-LLM E-Commerce Chatbot",
+      "description": "Production AI shopping assistant with sub-2-second responses; integrates 9 LLMs, 6 personas, and 14 languages; deployed on Streamlit Cloud.",
+      "stack": [
+        "Python",
+        "Groq API",
+        "Streamlit",
+        "LLaMA 3.3 70B"
+      ],
+      "url": null,
+      "url_status": "No matching public repository URL verified; link omitted rather than guessed."
+    },
+    {
+      "name": "FoodVision AI",
+      "subtitle": "Food Classification & Nutrition Engine",
+      "description": "Three CNN architectures classify 34 food categories with automated nutrient inference; deployed on Hugging Face Spaces.",
+      "stack": [
+        "TensorFlow",
+        "ResNet50",
+        "VGG16",
+        "Flask",
+        "Redis",
+        "Docker",
+        "Gunicorn"
+      ],
+      "url": "https://github.com/karthik-vana/FoodVision-AI"
+    },
+    {
+      "name": "Telecom Customer Retention System",
+      "subtitle": "Churn prediction and scoring API",
+      "description": "Seven-step ML pipeline on 7,043 records. CV-reported results: 98.5% accuracy, ROC-AUC 0.92, F1 0.89; Flask REST API deployed on Render.",
+      "stack": [
+        "XGBoost",
+        "SMOTE",
+        "Scikit-learn",
+        "Flask REST API"
+      ],
+      "url": "https://github.com/karthik-vana/Telecom-Retention-System"
+    },
+    {
+      "name": "Credit Card Risk Prediction System",
+      "subtitle": "Financial risk scoring API",
+      "description": "Five ML models trained on 150,000+ financial records. CV-reported results: 85%+ accuracy, ROC-AUC 0.88, recall 82.4%; real-time risk scoring API.",
+      "stack": [
+        "XGBoost",
+        "Random Forest",
+        "SMOTE",
+        "Flask",
+        "Render"
+      ],
+      "url": "https://github.com/karthik-vana/CREDIT-CARD_PREDICTION-"
+    }
+  ],
+  "certifications": [
+    "Oracle OCI Gen AI Professional (2025–2027)",
+    "Oracle OCI Data Science Professional",
+    "Google Advanced Data Analytics (Coursera)",
+    "Google Gemini for Workspace (2025–2028)",
+    "AWS Machine Learning (Mar 2026)"
+  ],
+  "courses": [
+    "Infosys Springboard 7.0 AI: Deep Learning, NLP, Computer Vision, Applied AI",
+    "IBM Python for Data Science & AI",
+    "Cisco Introduction to Data Science",
+    "TCS Career Edge"
+  ],
+  "honours": [
+    "UIDAI Data Hackathon 2026 — ML anomaly-detection system on national identity records; shortlisted among national entries.",
+    "Tata Group GenAI Simulation (Forage) — EDA, AI risk profiling, dashboards, and collections strategy for a fintech scenario.",
+    "Deloitte Data Analytics Simulation (Forage) — forensic data analysis, anomaly detection, and executive-ready audit insights.",
+    "Government of Andhra Pradesh — 4-Year Full Merit Scholarship Awardee."
+  ],
+  "publication": {
+    "title": "Power Quality Enhancement in Microgrid System Using PV-Based UPQC",
+    "venue": "IJSREM",
+    "date": "Apr 2025",
+    "impact_factor": "8.586 (as listed in CV)",
+    "issn": "2582-3930",
+    "doi": "10.55041/IJSREM44631",
+    "url": "https://doi.org/10.55041/IJSREM44631"
+  },
+  "volunteering": [
+    "Internshala Student Ambassador (2025) — guided 25+ students and led campus outreach.",
+    "Peer Mentor — coaches juniors in Python, ML fundamentals, and career development."
+  ],
+  "languages": [
+    "English (Fluent)",
+    "Telugu (Native)",
+    "Hindi (Intermediate)"
+  ],
+  "card": {
+    "role": "AI/ML Engineer · Data Science",
+    "focus": "GenAI · RAG · NLP · Computer Vision",
+    "education": "M.Tech CSE — AI/ML (pursuing)",
+    "research": "GIM SRIP-2026 · Big Data Analytics",
+    "stack": "Python · TensorFlow · LangChain · LangGraph · RAG",
+    "projects": "ShopMind AI · FoodVision AI · Telecom Retention",
+    "experience": "GIM · The Skill Union · Innomatics",
+    "publication": "PV-Based UPQC · IJSREM (Apr 2025)",
+    "mission": "Building practical, deployable AI systems"
+  }
+}

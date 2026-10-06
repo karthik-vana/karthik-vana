@@ -1,0 +1,762 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="212" viewBox="0 0 980 212" role="img" aria-labelledby="title desc">
+<title id="title">GitHub contribution calendar for karthik-vana</title>
+<desc id="desc">53-week contribution heatmap. Values are shown only after the public GitHub calendar has been fetched and validated. See the labels for verification status.</desc>
+<rect x="0.5" y="0.5" width="99.8%" height="99%" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="17" cy="17" r="4" fill="#ff5f56"/><circle cx="31" cy="17" r="4" fill="#ffbd2e"/><circle cx="45" cy="17" r="4" fill="#27c93f"/>
+<text x="64" y="21" font-family="Consolas,monospace" font-size="11" fill="#8b949e">karthik@github ~ $ ./contributions.sh</text>
+<text x="26" y="48" font-family="Consolas,monospace" font-size="15" font-weight="600" fill="#e6edf3">Contribution activity</text>
+<text x="26" y="61" font-family="Consolas,monospace" font-size="10" fill="#d29922">LIVE DATA PENDING FIRST SUCCESSFUL REFRESH · NO TOTALS SHOWN</text>
+<text x="18.0" y="94.0" text-anchor="end" font-family="Consolas,monospace" font-size="8.5" fill="#8b949e">Mon</text>
+<text x="18.0" y="122.0" text-anchor="end" font-family="Consolas,monospace" font-size="8.5" fill="#8b949e">Wed</text>
+<text x="18.0" y="150.0" text-anchor="end" font-family="Consolas,monospace" font-size="8.5" fill="#8b949e">Fri</text>
+<rect class="contribution-cell" x="26.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-09-28: no verified data loaded</title></rect>
+<rect x="26.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="26.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-09-29: no verified data loaded</title></rect>
+<rect x="26.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="26.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-09-30: no verified data loaded</title></rect>
+<rect x="26.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="26.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-01: no verified data loaded</title></rect>
+<rect x="26.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="26.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-02: no verified data loaded</title></rect>
+<rect x="26.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="26.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-03: no verified data loaded</title></rect>
+<rect x="26.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="26.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-04: no verified data loaded</title></rect>
+<rect x="26.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="40.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-05: no verified data loaded</title></rect>
+<rect x="40.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="40.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-06: no verified data loaded</title></rect>
+<rect x="40.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="40.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-07: no verified data loaded</title></rect>
+<rect x="40.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="40.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-08: no verified data loaded</title></rect>
+<rect x="40.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="40.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-09: no verified data loaded</title></rect>
+<rect x="40.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="40.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-10: no verified data loaded</title></rect>
+<rect x="40.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="40.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-11: no verified data loaded</title></rect>
+<rect x="40.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="54.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-12: no verified data loaded</title></rect>
+<rect x="54.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="54.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-13: no verified data loaded</title></rect>
+<rect x="54.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="54.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-14: no verified data loaded</title></rect>
+<rect x="54.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="54.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-15: no verified data loaded</title></rect>
+<rect x="54.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="54.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-16: no verified data loaded</title></rect>
+<rect x="54.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="54.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-17: no verified data loaded</title></rect>
+<rect x="54.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="54.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-18: no verified data loaded</title></rect>
+<rect x="54.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="68.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-19: no verified data loaded</title></rect>
+<rect x="68.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="68.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-20: no verified data loaded</title></rect>
+<rect x="68.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="68.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-21: no verified data loaded</title></rect>
+<rect x="68.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="68.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-22: no verified data loaded</title></rect>
+<rect x="68.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="68.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-23: no verified data loaded</title></rect>
+<rect x="68.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="68.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-24: no verified data loaded</title></rect>
+<rect x="68.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="68.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-25: no verified data loaded</title></rect>
+<rect x="68.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="82.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-26: no verified data loaded</title></rect>
+<rect x="82.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="82.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-27: no verified data loaded</title></rect>
+<rect x="82.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="82.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-28: no verified data loaded</title></rect>
+<rect x="82.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="82.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-29: no verified data loaded</title></rect>
+<rect x="82.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="82.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-30: no verified data loaded</title></rect>
+<rect x="82.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="82.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-10-31: no verified data loaded</title></rect>
+<rect x="82.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="82.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-01: no verified data loaded</title></rect>
+<rect x="82.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="96.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-02: no verified data loaded</title></rect>
+<rect x="96.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="96.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-03: no verified data loaded</title></rect>
+<rect x="96.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="96.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-04: no verified data loaded</title></rect>
+<rect x="96.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="96.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-05: no verified data loaded</title></rect>
+<rect x="96.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="96.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-06: no verified data loaded</title></rect>
+<rect x="96.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="96.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-07: no verified data loaded</title></rect>
+<rect x="96.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="96.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-08: no verified data loaded</title></rect>
+<rect x="96.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="110.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-09: no verified data loaded</title></rect>
+<rect x="110.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="110.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-10: no verified data loaded</title></rect>
+<rect x="110.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="110.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-11: no verified data loaded</title></rect>
+<rect x="110.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="110.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-12: no verified data loaded</title></rect>
+<rect x="110.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="110.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-13: no verified data loaded</title></rect>
+<rect x="110.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="110.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-14: no verified data loaded</title></rect>
+<rect x="110.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="110.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-15: no verified data loaded</title></rect>
+<rect x="110.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="124.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-16: no verified data loaded</title></rect>
+<rect x="124.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="124.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-17: no verified data loaded</title></rect>
+<rect x="124.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="124.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-18: no verified data loaded</title></rect>
+<rect x="124.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="124.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-19: no verified data loaded</title></rect>
+<rect x="124.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="124.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-20: no verified data loaded</title></rect>
+<rect x="124.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="124.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-21: no verified data loaded</title></rect>
+<rect x="124.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="124.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-22: no verified data loaded</title></rect>
+<rect x="124.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="138.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-23: no verified data loaded</title></rect>
+<rect x="138.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="138.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-24: no verified data loaded</title></rect>
+<rect x="138.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="138.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-25: no verified data loaded</title></rect>
+<rect x="138.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="138.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-26: no verified data loaded</title></rect>
+<rect x="138.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="138.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-27: no verified data loaded</title></rect>
+<rect x="138.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="138.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-28: no verified data loaded</title></rect>
+<rect x="138.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="138.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-29: no verified data loaded</title></rect>
+<rect x="138.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="152.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-11-30: no verified data loaded</title></rect>
+<rect x="152.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="152.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-01: no verified data loaded</title></rect>
+<rect x="152.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="152.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-02: no verified data loaded</title></rect>
+<rect x="152.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="152.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-03: no verified data loaded</title></rect>
+<rect x="152.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="152.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-04: no verified data loaded</title></rect>
+<rect x="152.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="152.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-05: no verified data loaded</title></rect>
+<rect x="152.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="152.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-06: no verified data loaded</title></rect>
+<rect x="152.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="166.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-07: no verified data loaded</title></rect>
+<rect x="166.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="166.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-08: no verified data loaded</title></rect>
+<rect x="166.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="166.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-09: no verified data loaded</title></rect>
+<rect x="166.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="166.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-10: no verified data loaded</title></rect>
+<rect x="166.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="166.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-11: no verified data loaded</title></rect>
+<rect x="166.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="166.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-12: no verified data loaded</title></rect>
+<rect x="166.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="166.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-13: no verified data loaded</title></rect>
+<rect x="166.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="180.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-14: no verified data loaded</title></rect>
+<rect x="180.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="180.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-15: no verified data loaded</title></rect>
+<rect x="180.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="180.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-16: no verified data loaded</title></rect>
+<rect x="180.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="180.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-17: no verified data loaded</title></rect>
+<rect x="180.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="180.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-18: no verified data loaded</title></rect>
+<rect x="180.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="180.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-19: no verified data loaded</title></rect>
+<rect x="180.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="180.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-20: no verified data loaded</title></rect>
+<rect x="180.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="194.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-21: no verified data loaded</title></rect>
+<rect x="194.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="194.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-22: no verified data loaded</title></rect>
+<rect x="194.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="194.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-23: no verified data loaded</title></rect>
+<rect x="194.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="194.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-24: no verified data loaded</title></rect>
+<rect x="194.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="194.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-25: no verified data loaded</title></rect>
+<rect x="194.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="194.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-26: no verified data loaded</title></rect>
+<rect x="194.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="194.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-27: no verified data loaded</title></rect>
+<rect x="194.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="208.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-28: no verified data loaded</title></rect>
+<rect x="208.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="208.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-29: no verified data loaded</title></rect>
+<rect x="208.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="208.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-30: no verified data loaded</title></rect>
+<rect x="208.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="208.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2025-12-31: no verified data loaded</title></rect>
+<rect x="208.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="208.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-01: no verified data loaded</title></rect>
+<rect x="208.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="208.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-02: no verified data loaded</title></rect>
+<rect x="208.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="208.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-03: no verified data loaded</title></rect>
+<rect x="208.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="222.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-04: no verified data loaded</title></rect>
+<rect x="222.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="222.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-05: no verified data loaded</title></rect>
+<rect x="222.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="222.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-06: no verified data loaded</title></rect>
+<rect x="222.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="222.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-07: no verified data loaded</title></rect>
+<rect x="222.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="222.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-08: no verified data loaded</title></rect>
+<rect x="222.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="222.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-09: no verified data loaded</title></rect>
+<rect x="222.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="222.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-10: no verified data loaded</title></rect>
+<rect x="222.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="236.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-11: no verified data loaded</title></rect>
+<rect x="236.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="236.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-12: no verified data loaded</title></rect>
+<rect x="236.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="236.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-13: no verified data loaded</title></rect>
+<rect x="236.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="236.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-14: no verified data loaded</title></rect>
+<rect x="236.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="236.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-15: no verified data loaded</title></rect>
+<rect x="236.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="236.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-16: no verified data loaded</title></rect>
+<rect x="236.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="236.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-17: no verified data loaded</title></rect>
+<rect x="236.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="250.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-18: no verified data loaded</title></rect>
+<rect x="250.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="250.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-19: no verified data loaded</title></rect>
+<rect x="250.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="250.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-20: no verified data loaded</title></rect>
+<rect x="250.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="250.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-21: no verified data loaded</title></rect>
+<rect x="250.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="250.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-22: no verified data loaded</title></rect>
+<rect x="250.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="250.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-23: no verified data loaded</title></rect>
+<rect x="250.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="250.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-24: no verified data loaded</title></rect>
+<rect x="250.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="264.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-25: no verified data loaded</title></rect>
+<rect x="264.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="264.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-26: no verified data loaded</title></rect>
+<rect x="264.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="264.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-27: no verified data loaded</title></rect>
+<rect x="264.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="264.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-28: no verified data loaded</title></rect>
+<rect x="264.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="264.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-29: no verified data loaded</title></rect>
+<rect x="264.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="264.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-30: no verified data loaded</title></rect>
+<rect x="264.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="264.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-01-31: no verified data loaded</title></rect>
+<rect x="264.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="278.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-01: no verified data loaded</title></rect>
+<rect x="278.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="278.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-02: no verified data loaded</title></rect>
+<rect x="278.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="278.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-03: no verified data loaded</title></rect>
+<rect x="278.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="278.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-04: no verified data loaded</title></rect>
+<rect x="278.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="278.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-05: no verified data loaded</title></rect>
+<rect x="278.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="278.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-06: no verified data loaded</title></rect>
+<rect x="278.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="278.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-07: no verified data loaded</title></rect>
+<rect x="278.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="292.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-08: no verified data loaded</title></rect>
+<rect x="292.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="292.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-09: no verified data loaded</title></rect>
+<rect x="292.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="292.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-10: no verified data loaded</title></rect>
+<rect x="292.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="292.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-11: no verified data loaded</title></rect>
+<rect x="292.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="292.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-12: no verified data loaded</title></rect>
+<rect x="292.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="292.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-13: no verified data loaded</title></rect>
+<rect x="292.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="292.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-14: no verified data loaded</title></rect>
+<rect x="292.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="306.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-15: no verified data loaded</title></rect>
+<rect x="306.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="306.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-16: no verified data loaded</title></rect>
+<rect x="306.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="306.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-17: no verified data loaded</title></rect>
+<rect x="306.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="306.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-18: no verified data loaded</title></rect>
+<rect x="306.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="306.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-19: no verified data loaded</title></rect>
+<rect x="306.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="306.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-20: no verified data loaded</title></rect>
+<rect x="306.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="306.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-21: no verified data loaded</title></rect>
+<rect x="306.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="320.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-22: no verified data loaded</title></rect>
+<rect x="320.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="320.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-23: no verified data loaded</title></rect>
+<rect x="320.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="320.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-24: no verified data loaded</title></rect>
+<rect x="320.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="320.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-25: no verified data loaded</title></rect>
+<rect x="320.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="320.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-26: no verified data loaded</title></rect>
+<rect x="320.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="320.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-27: no verified data loaded</title></rect>
+<rect x="320.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="320.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-02-28: no verified data loaded</title></rect>
+<rect x="320.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="334.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-01: no verified data loaded</title></rect>
+<rect x="334.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="334.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-02: no verified data loaded</title></rect>
+<rect x="334.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="334.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-03: no verified data loaded</title></rect>
+<rect x="334.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="334.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-04: no verified data loaded</title></rect>
+<rect x="334.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="334.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-05: no verified data loaded</title></rect>
+<rect x="334.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="334.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-06: no verified data loaded</title></rect>
+<rect x="334.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="334.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-07: no verified data loaded</title></rect>
+<rect x="334.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="348.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-08: no verified data loaded</title></rect>
+<rect x="348.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="348.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-09: no verified data loaded</title></rect>
+<rect x="348.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="348.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-10: no verified data loaded</title></rect>
+<rect x="348.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="348.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-11: no verified data loaded</title></rect>
+<rect x="348.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="348.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-12: no verified data loaded</title></rect>
+<rect x="348.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="348.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-13: no verified data loaded</title></rect>
+<rect x="348.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="348.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-14: no verified data loaded</title></rect>
+<rect x="348.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="362.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-15: no verified data loaded</title></rect>
+<rect x="362.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="362.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-16: no verified data loaded</title></rect>
+<rect x="362.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="362.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-17: no verified data loaded</title></rect>
+<rect x="362.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="362.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-18: no verified data loaded</title></rect>
+<rect x="362.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="362.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-19: no verified data loaded</title></rect>
+<rect x="362.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="362.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-20: no verified data loaded</title></rect>
+<rect x="362.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="362.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-21: no verified data loaded</title></rect>
+<rect x="362.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="376.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-22: no verified data loaded</title></rect>
+<rect x="376.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="376.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-23: no verified data loaded</title></rect>
+<rect x="376.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="376.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-24: no verified data loaded</title></rect>
+<rect x="376.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="376.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-25: no verified data loaded</title></rect>
+<rect x="376.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="376.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-26: no verified data loaded</title></rect>
+<rect x="376.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="376.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-27: no verified data loaded</title></rect>
+<rect x="376.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="376.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-28: no verified data loaded</title></rect>
+<rect x="376.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="390.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-29: no verified data loaded</title></rect>
+<rect x="390.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="390.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-30: no verified data loaded</title></rect>
+<rect x="390.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="390.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-03-31: no verified data loaded</title></rect>
+<rect x="390.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="390.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-01: no verified data loaded</title></rect>
+<rect x="390.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="390.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-02: no verified data loaded</title></rect>
+<rect x="390.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="390.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-03: no verified data loaded</title></rect>
+<rect x="390.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="390.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-04: no verified data loaded</title></rect>
+<rect x="390.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="404.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-05: no verified data loaded</title></rect>
+<rect x="404.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="404.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-06: no verified data loaded</title></rect>
+<rect x="404.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="404.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-07: no verified data loaded</title></rect>
+<rect x="404.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="404.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-08: no verified data loaded</title></rect>
+<rect x="404.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="404.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-09: no verified data loaded</title></rect>
+<rect x="404.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="404.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-10: no verified data loaded</title></rect>
+<rect x="404.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="404.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-11: no verified data loaded</title></rect>
+<rect x="404.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="418.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-12: no verified data loaded</title></rect>
+<rect x="418.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="418.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-13: no verified data loaded</title></rect>
+<rect x="418.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="418.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-14: no verified data loaded</title></rect>
+<rect x="418.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="418.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-15: no verified data loaded</title></rect>
+<rect x="418.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="418.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-16: no verified data loaded</title></rect>
+<rect x="418.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="418.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-17: no verified data loaded</title></rect>
+<rect x="418.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="418.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-18: no verified data loaded</title></rect>
+<rect x="418.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="432.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-19: no verified data loaded</title></rect>
+<rect x="432.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="432.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-20: no verified data loaded</title></rect>
+<rect x="432.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="432.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-21: no verified data loaded</title></rect>
+<rect x="432.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="432.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-22: no verified data loaded</title></rect>
+<rect x="432.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="432.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-23: no verified data loaded</title></rect>
+<rect x="432.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="432.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-24: no verified data loaded</title></rect>
+<rect x="432.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="432.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-25: no verified data loaded</title></rect>
+<rect x="432.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="446.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-26: no verified data loaded</title></rect>
+<rect x="446.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="446.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-27: no verified data loaded</title></rect>
+<rect x="446.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="446.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-28: no verified data loaded</title></rect>
+<rect x="446.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="446.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-29: no verified data loaded</title></rect>
+<rect x="446.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="446.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-04-30: no verified data loaded</title></rect>
+<rect x="446.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="446.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-01: no verified data loaded</title></rect>
+<rect x="446.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="446.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-02: no verified data loaded</title></rect>
+<rect x="446.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="460.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-03: no verified data loaded</title></rect>
+<rect x="460.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="460.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-04: no verified data loaded</title></rect>
+<rect x="460.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="460.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-05: no verified data loaded</title></rect>
+<rect x="460.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="460.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-06: no verified data loaded</title></rect>
+<rect x="460.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="460.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-07: no verified data loaded</title></rect>
+<rect x="460.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="460.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-08: no verified data loaded</title></rect>
+<rect x="460.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="460.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-09: no verified data loaded</title></rect>
+<rect x="460.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="474.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-10: no verified data loaded</title></rect>
+<rect x="474.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="474.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-11: no verified data loaded</title></rect>
+<rect x="474.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="474.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-12: no verified data loaded</title></rect>
+<rect x="474.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="474.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-13: no verified data loaded</title></rect>
+<rect x="474.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="474.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-14: no verified data loaded</title></rect>
+<rect x="474.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="474.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-15: no verified data loaded</title></rect>
+<rect x="474.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="474.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-16: no verified data loaded</title></rect>
+<rect x="474.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="488.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-17: no verified data loaded</title></rect>
+<rect x="488.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="488.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-18: no verified data loaded</title></rect>
+<rect x="488.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="488.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-19: no verified data loaded</title></rect>
+<rect x="488.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="488.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-20: no verified data loaded</title></rect>
+<rect x="488.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="488.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-21: no verified data loaded</title></rect>
+<rect x="488.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="488.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-22: no verified data loaded</title></rect>
+<rect x="488.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="488.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-23: no verified data loaded</title></rect>
+<rect x="488.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="502.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-24: no verified data loaded</title></rect>
+<rect x="502.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="502.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-25: no verified data loaded</title></rect>
+<rect x="502.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="502.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-26: no verified data loaded</title></rect>
+<rect x="502.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="502.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-27: no verified data loaded</title></rect>
+<rect x="502.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="502.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-28: no verified data loaded</title></rect>
+<rect x="502.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="502.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-29: no verified data loaded</title></rect>
+<rect x="502.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="502.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-30: no verified data loaded</title></rect>
+<rect x="502.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="516.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-05-31: no verified data loaded</title></rect>
+<rect x="516.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="516.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-01: no verified data loaded</title></rect>
+<rect x="516.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="516.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-02: no verified data loaded</title></rect>
+<rect x="516.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="516.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-03: no verified data loaded</title></rect>
+<rect x="516.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="516.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-04: no verified data loaded</title></rect>
+<rect x="516.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="516.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-05: no verified data loaded</title></rect>
+<rect x="516.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="516.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-06: no verified data loaded</title></rect>
+<rect x="516.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="530.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-07: no verified data loaded</title></rect>
+<rect x="530.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="530.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-08: no verified data loaded</title></rect>
+<rect x="530.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="530.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-09: no verified data loaded</title></rect>
+<rect x="530.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="530.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-10: no verified data loaded</title></rect>
+<rect x="530.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="530.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-11: no verified data loaded</title></rect>
+<rect x="530.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="530.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-12: no verified data loaded</title></rect>
+<rect x="530.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="530.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-13: no verified data loaded</title></rect>
+<rect x="530.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="544.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-14: no verified data loaded</title></rect>
+<rect x="544.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="544.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-15: no verified data loaded</title></rect>
+<rect x="544.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="544.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-16: no verified data loaded</title></rect>
+<rect x="544.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="544.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-17: no verified data loaded</title></rect>
+<rect x="544.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="544.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-18: no verified data loaded</title></rect>
+<rect x="544.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="544.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-19: no verified data loaded</title></rect>
+<rect x="544.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="544.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-20: no verified data loaded</title></rect>
+<rect x="544.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="558.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-21: no verified data loaded</title></rect>
+<rect x="558.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="558.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-22: no verified data loaded</title></rect>
+<rect x="558.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="558.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-23: no verified data loaded</title></rect>
+<rect x="558.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="558.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-24: no verified data loaded</title></rect>
+<rect x="558.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="558.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-25: no verified data loaded</title></rect>
+<rect x="558.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="558.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-26: no verified data loaded</title></rect>
+<rect x="558.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="558.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-27: no verified data loaded</title></rect>
+<rect x="558.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="572.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-28: no verified data loaded</title></rect>
+<rect x="572.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="572.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-29: no verified data loaded</title></rect>
+<rect x="572.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="572.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-06-30: no verified data loaded</title></rect>
+<rect x="572.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="572.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-01: no verified data loaded</title></rect>
+<rect x="572.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="572.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-02: no verified data loaded</title></rect>
+<rect x="572.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="572.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-03: no verified data loaded</title></rect>
+<rect x="572.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="572.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-04: no verified data loaded</title></rect>
+<rect x="572.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="586.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-05: no verified data loaded</title></rect>
+<rect x="586.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="586.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-06: no verified data loaded</title></rect>
+<rect x="586.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="586.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-07: no verified data loaded</title></rect>
+<rect x="586.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="586.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-08: no verified data loaded</title></rect>
+<rect x="586.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="586.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-09: no verified data loaded</title></rect>
+<rect x="586.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="586.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-10: no verified data loaded</title></rect>
+<rect x="586.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="586.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-11: no verified data loaded</title></rect>
+<rect x="586.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="600.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-12: no verified data loaded</title></rect>
+<rect x="600.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="600.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-13: no verified data loaded</title></rect>
+<rect x="600.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="600.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-14: no verified data loaded</title></rect>
+<rect x="600.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="600.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-15: no verified data loaded</title></rect>
+<rect x="600.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="600.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-16: no verified data loaded</title></rect>
+<rect x="600.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="600.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-17: no verified data loaded</title></rect>
+<rect x="600.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="600.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-18: no verified data loaded</title></rect>
+<rect x="600.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="614.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-19: no verified data loaded</title></rect>
+<rect x="614.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="614.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-20: no verified data loaded</title></rect>
+<rect x="614.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="614.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-21: no verified data loaded</title></rect>
+<rect x="614.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="614.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-22: no verified data loaded</title></rect>
+<rect x="614.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="614.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-23: no verified data loaded</title></rect>
+<rect x="614.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="614.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-24: no verified data loaded</title></rect>
+<rect x="614.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="614.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-25: no verified data loaded</title></rect>
+<rect x="614.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="628.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-26: no verified data loaded</title></rect>
+<rect x="628.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="628.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-27: no verified data loaded</title></rect>
+<rect x="628.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="628.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-28: no verified data loaded</title></rect>
+<rect x="628.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="628.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-29: no verified data loaded</title></rect>
+<rect x="628.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="628.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-30: no verified data loaded</title></rect>
+<rect x="628.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="628.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-07-31: no verified data loaded</title></rect>
+<rect x="628.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="628.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-01: no verified data loaded</title></rect>
+<rect x="628.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="642.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-02: no verified data loaded</title></rect>
+<rect x="642.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="642.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-03: no verified data loaded</title></rect>
+<rect x="642.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="642.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-04: no verified data loaded</title></rect>
+<rect x="642.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="642.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-05: no verified data loaded</title></rect>
+<rect x="642.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="642.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-06: no verified data loaded</title></rect>
+<rect x="642.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="642.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-07: no verified data loaded</title></rect>
+<rect x="642.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="642.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-08: no verified data loaded</title></rect>
+<rect x="642.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="656.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-09: no verified data loaded</title></rect>
+<rect x="656.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="656.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-10: no verified data loaded</title></rect>
+<rect x="656.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="656.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-11: no verified data loaded</title></rect>
+<rect x="656.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="656.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-12: no verified data loaded</title></rect>
+<rect x="656.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="656.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-13: no verified data loaded</title></rect>
+<rect x="656.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="656.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-14: no verified data loaded</title></rect>
+<rect x="656.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="656.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-15: no verified data loaded</title></rect>
+<rect x="656.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="670.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-16: no verified data loaded</title></rect>
+<rect x="670.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="670.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-17: no verified data loaded</title></rect>
+<rect x="670.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="670.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-18: no verified data loaded</title></rect>
+<rect x="670.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="670.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-19: no verified data loaded</title></rect>
+<rect x="670.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="670.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-20: no verified data loaded</title></rect>
+<rect x="670.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="670.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-21: no verified data loaded</title></rect>
+<rect x="670.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="670.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-22: no verified data loaded</title></rect>
+<rect x="670.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="684.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-23: no verified data loaded</title></rect>
+<rect x="684.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="684.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-24: no verified data loaded</title></rect>
+<rect x="684.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="684.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-25: no verified data loaded</title></rect>
+<rect x="684.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="684.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-26: no verified data loaded</title></rect>
+<rect x="684.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="684.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-27: no verified data loaded</title></rect>
+<rect x="684.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="684.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-28: no verified data loaded</title></rect>
+<rect x="684.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="684.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-29: no verified data loaded</title></rect>
+<rect x="684.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="698.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-30: no verified data loaded</title></rect>
+<rect x="698.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="698.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-08-31: no verified data loaded</title></rect>
+<rect x="698.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="698.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-01: no verified data loaded</title></rect>
+<rect x="698.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="698.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-02: no verified data loaded</title></rect>
+<rect x="698.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="698.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-03: no verified data loaded</title></rect>
+<rect x="698.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="698.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-04: no verified data loaded</title></rect>
+<rect x="698.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="698.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-05: no verified data loaded</title></rect>
+<rect x="698.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="712.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-06: no verified data loaded</title></rect>
+<rect x="712.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="712.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-07: no verified data loaded</title></rect>
+<rect x="712.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="712.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-08: no verified data loaded</title></rect>
+<rect x="712.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="712.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-09: no verified data loaded</title></rect>
+<rect x="712.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="712.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-10: no verified data loaded</title></rect>
+<rect x="712.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="712.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-11: no verified data loaded</title></rect>
+<rect x="712.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="712.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-12: no verified data loaded</title></rect>
+<rect x="712.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="726.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-13: no verified data loaded</title></rect>
+<rect x="726.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="726.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-14: no verified data loaded</title></rect>
+<rect x="726.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="726.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-15: no verified data loaded</title></rect>
+<rect x="726.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="726.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-16: no verified data loaded</title></rect>
+<rect x="726.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="726.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-17: no verified data loaded</title></rect>
+<rect x="726.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="726.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-18: no verified data loaded</title></rect>
+<rect x="726.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="726.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-19: no verified data loaded</title></rect>
+<rect x="726.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="740.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-20: no verified data loaded</title></rect>
+<rect x="740.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="740.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-21: no verified data loaded</title></rect>
+<rect x="740.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="740.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-22: no verified data loaded</title></rect>
+<rect x="740.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="740.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-23: no verified data loaded</title></rect>
+<rect x="740.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="740.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-24: no verified data loaded</title></rect>
+<rect x="740.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="740.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-25: no verified data loaded</title></rect>
+<rect x="740.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="740.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-26: no verified data loaded</title></rect>
+<rect x="740.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="754.0" y="72.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-27: no verified data loaded</title></rect>
+<rect x="754.6" y="72.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="754.0" y="86.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-28: no verified data loaded</title></rect>
+<rect x="754.6" y="86.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="754.0" y="100.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-29: no verified data loaded</title></rect>
+<rect x="754.6" y="100.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="754.0" y="114.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-09-30: no verified data loaded</title></rect>
+<rect x="754.6" y="114.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="754.0" y="128.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-10-01: no verified data loaded</title></rect>
+<rect x="754.6" y="128.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="754.0" y="142.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-10-02: no verified data loaded</title></rect>
+<rect x="754.6" y="142.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<rect class="contribution-cell" x="754.0" y="156.0" width="10.0" height="10.0" rx="2" fill="#0d1117" stroke="#30363d" stroke-width="0.55"><title>2026-10-03: no verified data loaded</title></rect>
+<rect x="754.6" y="156.6" width="8.8" height="8.8" rx="1.5" fill="#0d1117"/>
+<text x="791" y="185" font-family="Consolas,monospace" font-size="9" fill="#8b949e">Less</text>
+<rect x="828" y="177" width="10" height="10" rx="2" fill="#161b22" stroke="#30363d" stroke-width="0.35"/>
+<rect x="842" y="177" width="10" height="10" rx="2" fill="#0e4429" stroke="#30363d" stroke-width="0.35"/>
+<rect x="856" y="177" width="10" height="10" rx="2" fill="#006d32" stroke="#30363d" stroke-width="0.35"/>
+<rect x="870" y="177" width="10" height="10" rx="2" fill="#26a641" stroke="#30363d" stroke-width="0.35"/>
+<rect x="884" y="177" width="10" height="10" rx="2" fill="#39d353" stroke="#30363d" stroke-width="0.35"/>
+<text x="902" y="185" font-family="Consolas,monospace" font-size="9" fill="#8b949e">More</text>
+<text x="26" y="199" font-family="Consolas,monospace" font-size="9.5" fill="#6e7681">Source: github.com/users/karthik-vana/contributions</text>
+</svg>

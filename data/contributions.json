@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "username": "karthik-vana",
+  "source_url": "https://github.com/users/karthik-vana/contributions",
+  "status": "sample",
+  "source_verified": false,
+  "updated_at_utc": null,
+  "coverage": {
+    "from": null,
+    "to": null
+  },
+  "days": [],
+  "stats": null,
+  "note": "Sample schema only. Live GitHub contribution data was not retrievable in the authoring sandbox; the workflow will replace this file after validating the public endpoint."
+}
