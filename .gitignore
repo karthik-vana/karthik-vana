@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local portrait inputs and intermediate files; never commit the source photograph.
+.cache/
+build/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary workflow/test output
+*.tmp
