@@ -1,0 +1,6 @@
+# Local, one-off portrait pipeline (prep_photo.py + make_ascii_svg.py).
+# NOT installed by CI, so the daily job never downloads heavyweight imaging wheels.
+-r requirements.txt
+numpy==2.4.4
+Pillow==12.1.1
+opencv-python-headless==4.13.0.92

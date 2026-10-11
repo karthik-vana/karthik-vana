@@ -1,0 +1,5 @@
+# Optional: neural background removal for prep_photo.py (--bg rembg / default --bg auto).
+# Large install (onnxruntime) and a one-time ~170 MB model download. Without it the pipeline
+# falls back to OpenCV GrabCut automatically.
+-r requirements-portrait.txt
+rembg[cpu]==2.0.85

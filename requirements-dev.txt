@@ -1,0 +1,3 @@
+# Developer extras: full local validation (workflow YAML parsing in scripts/validate_assets.py).
+-r requirements-portrait.txt
+PyYAML==6.0.3

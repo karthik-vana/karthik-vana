@@ -1,0 +1,7 @@
+# Keep generated assets byte-identical across Windows/macOS/Linux so the daily job
+# never produces a diff that is only line endings.
+* text=auto eol=lf
+*.svg text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.md text eol=lf

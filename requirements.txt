@@ -1,0 +1,3 @@
+# Core runtime: used by the daily GitHub Actions job AND locally.
+# Everything else in scripts/ (heatmap rendering, info card, validation) is standard library only.
+requests==2.33.1
