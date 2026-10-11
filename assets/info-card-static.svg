@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="600" viewBox="0 0 500 600" role="img" aria-labelledby="t d">
+<title id="t">Terminal info card: Karthik Vana</title>
+<desc id="d">Name: Karthik Vana; Role: AI/ML Engineer; Focus: GenAI | RAG | NLP | CV; Education: M.Tech CSE (AI/ML), 2025-27; Research: Big Data Analytics | SRIP-2026; Stack: Python | TensorFlow | LangChain; Deploy: Flask | Docker | AWS | GCP; Projects: ShopMind AI; Certs: Oracle OCI Gen AI Pro | AWS ML; Languages: English | Telugu | Hindi; Status: Building useful AI</desc>
+<g transform="translate(4 0)">
+<rect x="0.5" y="0.5" width="495" height="599" rx="12" fill="#0d1117"/><path d="M0.5 34V12.5Q0.5 0.5 12.5 0.5H483.5Q495.5 0.5 495.5 12.5V34Z" fill="#161b22"/><path d="M0.5 34H495.5" fill="none" stroke="#30363d" stroke-width="1"/><circle cx="18" cy="17" r="5.5" fill="#ff5f56"/><circle cx="36" cy="17" r="5.5" fill="#ffbd2e"/><circle cx="54" cy="17" r="5.5" fill="#27c93f"/><text x="248" y="21" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="12" fill="#8b949e">karthik@github: ~</text><rect x="0.5" y="0.5" width="495" height="599" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="13.5" xml:space="preserve">
+<g><text x="24" y="66" xml:space="preserve"><tspan fill="#3fb950" font-weight="700">karthik@github</tspan><tspan fill="#e6edf3"> </tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#e6edf3"> $ whoami</tspan></text></g>
+<g><text x="24" y="98" fill="#3fb950" font-weight="700">karthik@github</text></g>
+<g><text x="24" y="120" fill="#6e7681">------------------------------</text></g>
+<g><text x="24" y="148" fill="#3fb950" font-weight="700">Name</text><text x="105" y="148" fill="#8b949e">:</text><text x="121.2" y="148" fill="#e6edf3">Karthik Vana</text></g>
+<g><text x="24" y="172" fill="#3fb950" font-weight="700">Role</text><text x="105" y="172" fill="#8b949e">:</text><text x="121.2" y="172" fill="#e6edf3">AI/ML Engineer</text></g>
+<g><text x="24" y="196" fill="#3fb950" font-weight="700">Focus</text><text x="105" y="196" fill="#8b949e">:</text><text x="121.2" y="196" fill="#e6edf3">GenAI | RAG | NLP | CV</text></g>
+<g><text x="24" y="220" fill="#3fb950" font-weight="700">Education</text><text x="105" y="220" fill="#8b949e">:</text><text x="121.2" y="220" fill="#e6edf3">M.Tech CSE (AI/ML), 2025-27</text></g>
+<g><text x="24" y="244" fill="#3fb950" font-weight="700">Research</text><text x="105" y="244" fill="#8b949e">:</text><text x="121.2" y="244" fill="#e6edf3">Big Data Analytics | SRIP-2026</text></g>
+<g><text x="121.2" y="268" fill="#e6edf3">Blockchain-based A2A authentication</text></g>
+<g><text x="24" y="292" fill="#3fb950" font-weight="700">Stack</text><text x="105" y="292" fill="#8b949e">:</text><text x="121.2" y="292" fill="#e6edf3">Python | TensorFlow | LangChain</text></g>
+<g><text x="24" y="316" fill="#3fb950" font-weight="700">Deploy</text><text x="105" y="316" fill="#8b949e">:</text><text x="121.2" y="316" fill="#e6edf3">Flask | Docker | AWS | GCP</text></g>
+<g><text x="24" y="340" fill="#3fb950" font-weight="700">Projects</text><text x="105" y="340" fill="#8b949e">:</text><text x="121.2" y="340" fill="#e6edf3">ShopMind AI</text></g>
+<g><text x="121.2" y="364" fill="#e6edf3">FoodVision AI</text></g>
+<g><text x="121.2" y="388" fill="#e6edf3">Telecom Retention System</text></g>
+<g><text x="121.2" y="412" fill="#e6edf3">Credit Card Risk Prediction</text></g>
+<g><text x="24" y="436" fill="#3fb950" font-weight="700">Certs</text><text x="105" y="436" fill="#8b949e">:</text><text x="121.2" y="436" fill="#e6edf3">Oracle OCI Gen AI Pro | AWS ML</text></g>
+<g><text x="24" y="460" fill="#3fb950" font-weight="700">Languages</text><text x="105" y="460" fill="#8b949e">:</text><text x="121.2" y="460" fill="#e6edf3">English | Telugu | Hindi</text></g>
+<g><text x="24" y="484" fill="#3fb950" font-weight="700">Status</text><text x="105" y="484" fill="#8b949e">:</text><text x="121.2" y="484" fill="#e6edf3">Building useful AI</text></g>
+<g><rect x="24" y="502" width="22" height="12" rx="2" fill="#0e4429"/><rect x="50" y="502" width="22" height="12" rx="2" fill="#006d32"/><rect x="76" y="502" width="22" height="12" rx="2" fill="#26a641"/><rect x="102" y="502" width="22" height="12" rx="2" fill="#39d353"/><rect x="128" y="502" width="22" height="12" rx="2" fill="#8b949e"/><rect x="154" y="502" width="22" height="12" rx="2" fill="#c9d1d9"/><rect x="180" y="502" width="22" height="12" rx="2" fill="#58a6ff"/><rect x="206" y="502" width="22" height="12" rx="2" fill="#e6edf3"/></g>
+<g><text x="24" y="538" fill="#6e7681"># From data prep to deployment: AI that ships.</text></g>
+<g><text x="24" y="564" xml:space="preserve"><tspan fill="#3fb950" font-weight="700">karthik@github</tspan><tspan fill="#e6edf3"> </tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#e6edf3"> $ </tspan></text><rect x="179.9" y="552.5" width="8.1" height="13.5" fill="#3fb950" fill-opacity=".85"/></g>
+</g></g></svg>

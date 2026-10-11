@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GitHub contribution calendar snapshot (schema_version 1)",
+  "description": "Written by scripts/fetch_contributions.py, read by scripts/render_heatmap_svg.py. The Python rules in scripts/contrib_data.py are authoritative; this file is documentation for editors and other tools.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "user", "source", "updated_at", "as_of", "range", "reported_total", "days"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "user": { "type": "string", "pattern": "^[A-Za-z0-9](?:[A-Za-z0-9-]{0,38})$" },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "url"],
+      "properties": {
+        "type": { "enum": ["github-html", "github-graphql"] },
+        "url": { "type": "string" }
+      }
+    },
+    "updated_at": { "type": "string", "format": "date-time", "description": "UTC time the day data last changed (not the last time the fetch ran)." },
+    "as_of": { "type": "string", "format": "date", "description": "UTC date of the fetch that produced the data; used for the current-streak rule." },
+    "range": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["from", "to"],
+      "properties": {
+        "from": { "type": "string", "format": "date" },
+        "to": { "type": "string", "format": "date" }
+      }
+    },
+    "reported_total": { "type": ["integer", "null"], "minimum": 0, "description": "The 'N contributions in the last year' figure GitHub reports, or null if absent." },
+    "days": {
+      "type": "array",
+      "minItems": 300,
+      "maxItems": 372,
+      "description": "One entry per calendar day, ascending, contiguous (no gaps or duplicates).",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["date", "count", "level"],
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "count": { "type": ["integer", "null"], "minimum": 0, "description": "null when the source did not give an exact count; statistics are then withheld." },
+          "level": { "type": "integer", "minimum": 0, "maximum": 4, "description": "GitHub's own intensity level 0-4 (fallback: quartiles of the busiest day)." }
+        }
+      }
+    }
+  }
+}
